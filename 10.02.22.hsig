@@ -1,0 +1,2 @@
+squareList:: [Int] ->[Int]
+squareList list = map (^3) list
